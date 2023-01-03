@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @musman08
+- 👋 Hi, I’m Muhammad Usman
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Development in flutter
 - 📫 You can contact me at my email usmansajid.1970@gmail.com
