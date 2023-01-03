@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musman08
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Development through flutter
-- 📫 You can contact me at my email muhammadusmansajid.pk@gmail.com
+- 🌱 I’m currently learning Development in flutter
+- 📫 You can contact me at my email usmansajid.1970@gmail.com
 
 <!---
 musman08/musman08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
