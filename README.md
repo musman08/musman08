@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Usman
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Development in flutter
+- 🌱 I’m a professional Flutter Developer.
+- - 👀 Application Development is my passion.
 - 📫 You can contact me at my email usmanuettaxila.pk@gmail.com
 
 <!---
