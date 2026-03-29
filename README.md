@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Usman
-- 🌱 I’m a professional Flutter Developer.
+- 🌱 I’m a Full Stack Developer.
 
 <!---
 musman08/musman08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
